@@ -5,6 +5,8 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //ACTUALIZACIÓN DE CATEGORY
+        //NUEVA ACTUALIZACIÓN
         public int CategoryId { get; set; }
 
         [Required]
