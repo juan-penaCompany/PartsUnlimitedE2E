@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
     {
         //ACTUALIZACIÓN DE CATEGORY
         //NUEVA ACTUALIZACIÓN
+        //CREACIÓN DE BRANCH
         public int CategoryId { get; set; }
 
         [Required]
